@@ -1,0 +1,9 @@
+[INFO ] 2021-07-13 12:17:22.510 [main] Test08_Log4jDemo - This is an information message
+[ERROR] 2021-07-13 12:17:22.513 [main] Test08_Log4jDemo - This is an error message
+[WARN ] 2021-07-13 12:17:22.513 [main] Test08_Log4jDemo - This is a warning  message
+[FATAL] 2021-07-13 12:17:22.514 [main] Test08_Log4jDemo - This is a fatal message
+[TRACE] 2021-07-13 12:18:44.276 [main] Test08_Log4jDemo - This is a trace message
+[INFO ] 2021-07-13 12:18:44.281 [main] Test08_Log4jDemo - This is an information message
+[ERROR] 2021-07-13 12:18:44.281 [main] Test08_Log4jDemo - This is an error message
+[WARN ] 2021-07-13 12:18:44.282 [main] Test08_Log4jDemo - This is a warning  message
+[FATAL] 2021-07-13 12:18:44.282 [main] Test08_Log4jDemo - This is a fatal message

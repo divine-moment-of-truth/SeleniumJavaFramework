@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="SuiteParallel">
+	<test thread-count="5" parallel="classes" name="TestParallel">
+		<classes>
+			<class name="Test06_ExtentReportsWithTestNG">
+				<methods>
+					<exclude name="test2"></exclude>
+				</methods>
+			</class>
+			
+			<class name="Test05_ExtentReportsDemoTest"></class>
+		</classes>
+	</test> <!-- TestParallel -->
+</suite> <!-- SuiteParallel -->
